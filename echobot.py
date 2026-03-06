@@ -1,5 +1,5 @@
 import streamlit as st
-import numpy as np
+import numpy  np
 
 with st.chat_message("assistant"):
     st.write("Hello human")
