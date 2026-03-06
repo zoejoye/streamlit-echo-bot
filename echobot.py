@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit s st
 import numpy as np
 
 with st.chat_message("assistant"):
